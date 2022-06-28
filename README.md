@@ -1,4 +1,4 @@
-# Overlapping Community Detection with Dynamic Dilated Aggregatoin in Deep Graph Neural Networks
+# Overlapping Community Detection with Dynamic Dilated Aggregatoin in Deep Residual GCNs
 
 
 
