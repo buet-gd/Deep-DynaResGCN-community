@@ -1,4 +1,4 @@
-# Overlapping Community Detection with Dynamic Dilated Aggregation in Deep Residual GCNs
+# Overlapping Community Detection using Dynamic Dilated Aggregation in Deep Residual GCNs
 
 
 
