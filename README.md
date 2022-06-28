@@ -18,6 +18,7 @@ pytorch=1.2.0
 scipy=1.3.1
 ```
 
+
 <!-- ## Cite
 Please cite our paper if you use the code or the datasets in your own work
 ```
@@ -31,4 +32,4 @@ Please cite our paper if you use the code or the datasets in your own work
 ``` -->
 
 ## Acknowledgments ##
-Our codebase build and extends the awesome [NOCD](https://github.com/shchur/overlapping-community-detection) repository.
+Our codebase is built and extended upon the awesome [NOCD](https://github.com/shchur/overlapping-community-detection) repository.
