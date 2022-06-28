@@ -7,7 +7,7 @@ The main algorithm and other utilities are implemented in the `nocd` package tha
 ```bash
 python setup.py install
 ```
-A Jupyter notebook [interactive-deep-G.ipynb](interactive-deep-G.ipynb) contains the code for training the model and analyzing the results.
+A Jupyter notebook [interactive.ipynb](interactive-deep-G.ipynb) contains the code for training the model and analyzing the results.
 
 
 
