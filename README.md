@@ -27,7 +27,7 @@ pytorch=1.2.0
 scipy=1.3.1
 networkx
 matplotlib
-sklearn
+scikit-learn
 tqdm
 ```
 
