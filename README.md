@@ -16,6 +16,10 @@ A Jupyter notebook [interactive.ipynb](interactive-deep-G.ipynb) contains the co
 numpy=1.16.4
 pytorch=1.2.0
 scipy=1.3.1
+networkx
+matplotlib
+sklearn
+tqdm
 ```
 
 
