@@ -9,6 +9,15 @@ python setup.py install
 ```
 A Jupyter notebook [interactive.ipynb](interactive-deep-G.ipynb) contains the code for training the model and analyzing the results.
 
+It is also possible to use Miniconda3 to set up a virtual environment as follows
+```bash
+conda env create -f environment.yaml
+```
+Then activate the environment as follows
+```bash
+conda activate cd
+```
+
 
 
 ## Requirements
