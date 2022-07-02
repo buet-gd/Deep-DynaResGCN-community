@@ -3,20 +3,26 @@
 
 
 ## Usage
-The main algorithm and other utilities are implemented in the `nocd` package that can be installed as
+<!-- The main algorithm and other utilities are implemented in the `nocd` package that can be installed as
 ```bash
 python setup.py install
-```
-A Jupyter notebook [interactive.ipynb](interactive-deep-G.ipynb) contains the code for training the model and analyzing the results.
+``` -->
 
-It is also possible to use Miniconda3 to set up a virtual environment as follows
+Create a virtual environment in Miniconda3 as follows
 ```bash
 conda env create -f environment.yaml
 ```
 Then activate the environment as follows
 ```bash
-conda activate cd
+conda activate deepnocd
 ```
+For testing installation, run the following command
+```bash
+python run-deep.py
+```
+
+Jupyter notebooks [interactive-G.ipynb](interactive-deep-G.ipynb) and [interactive-G.ipynb](interactive-deep-G.ipynb) contain the code for training the model and analyzing the results interactively.
+
 
 
 

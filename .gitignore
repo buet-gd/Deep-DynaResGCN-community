@@ -27,4 +27,6 @@ comment.cut
 ./dcgm/*
 ./dist/*
 ./virtual_documents/*
-*.yaml
+# *.yaml
+# run-deep.py
+setup.py
