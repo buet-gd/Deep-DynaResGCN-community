@@ -21,7 +21,7 @@ For testing installation, run the following command
 python run-deep.py
 ```
 
-Jupyter notebooks [interactive-G.ipynb](interactive-deep-G.ipynb) and [interactive-X.ipynb](interactive-deep-G.ipynb) contain the code for training the model and analyzing the results interactively.
+Jupyter notebooks [interactive-G.ipynb](interactive-deep-G.ipynb) and [interactive-X.ipynb](interactive-deep-X.ipynb) contain the code for training the model and analyzing the results interactively.
 
 
 
